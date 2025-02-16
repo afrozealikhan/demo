@@ -23,7 +23,7 @@ def display_attendance():
 
 # Main program
 def main():
-    print("Welcome to the Attendance Portal")
+    print("Welcome  the Attendance Portal")
 
     while True:
         print("\nOptions:")
